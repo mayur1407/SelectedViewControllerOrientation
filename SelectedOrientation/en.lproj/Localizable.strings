@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  SelectedOrientation
+
+  Created by Mayur Sharma on 24/08/19.
+  Copyright © 2019 Mayur. All rights reserved.
+*/
+"abc" = "Mayur";
+"unusedKey" = "I ma unused string"
+"missTranslationStringKey" = "Missed it";
