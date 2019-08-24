@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         if (self.isMovingFromParentViewController) {
             UIDevice.current.setValue(Int(UIInterfaceOrientation.portrait.rawValue), forKey: "orientation")
         }
-        
+        print(NSLocalizedString("abc", comment: ""))
     }
     
     override func didReceiveMemoryWarning() {
